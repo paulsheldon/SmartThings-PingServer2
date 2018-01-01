@@ -19,9 +19,9 @@ definition(
     author: "Gavin Campbell",
     description: "Update presence devices via a REST API.",
     category: "My Apps",
-    iconUrl: "https://cdn.rawgit.com/GvnCampbell/SmartThings-PingServer/master/smartapps/gvncampbell/pingserver-connector.src/pingserver.png",
-    iconX2Url: "https://cdn.rawgit.com/GvnCampbell/SmartThings-PingServer/master/smartapps/gvncampbell/pingserver-connector.src/pingserver2x.png",
-    iconX3Url: "https://cdn.rawgit.com/GvnCampbell/SmartThings-PingServer/master/smartapps/gvncampbell/pingserver-connector.src/pingserver2x.png")
+    iconUrl: "https://cdn.rawgit.com/GvnCampbell/SmartThings-PingServer2/master/smartapps/gvncampbell/pingserver2.src/pingserver2.png",
+    iconX2Url: "https://cdn.rawgit.com/GvnCampbell/SmartThings-PingServer2/master/smartapps/gvncampbell/pingserver2.src/pingserver22x.png",
+    iconX3Url: "https://cdn.rawgit.com/GvnCampbell/SmartThings-PingServer2/master/smartapps/gvncampbell/pingserver2.src/pingserver22x.png")
 
 preferences {
     page(name: "config")
